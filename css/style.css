@@ -36,3 +36,7 @@ p {
 .title {
 	color: rgb(152,173,166);
 }
+
+#info img {
+	border: 2px #ccc;
+}
