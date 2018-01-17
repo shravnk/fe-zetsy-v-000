@@ -1,6 +1,10 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+@@font-face {
+	font-family: 'Baskerville';
+	src: url(../fonts/Baskerville.ttc);
+}
 
 /*////////// Global Styles //////////*/
 
@@ -69,6 +73,8 @@ p {
 #press img:hover {
 	border: 5px rgb(111, 127, 122) solid;
 }
+
+
 
 footer {
 	text-align: right;
