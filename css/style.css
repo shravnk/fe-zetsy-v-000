@@ -52,6 +52,11 @@ p {
 	border: 5px rgb(152,173,166) solid;
 }
 
+#information	a {
+	color: #1783bb;
+	text-decoration: none;
+}
+
 #press img {
 	border: 5px #ccc solid;
 	padding: 1px;
