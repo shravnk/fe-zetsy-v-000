@@ -28,6 +28,10 @@ h1 a {
 	padding-bottom: 10px;
 }
 
+a {
+	background: transparent;
+}
+
 h1 a:hover {
 	color: rgb(111,127, 122);
 }
