@@ -31,7 +31,7 @@ h1 {
 a {
 	background: transparent;
 }
-header a {
+h1 a {
 	color: rgb(152, 173, 166);
 	text-decoration: none;
 }
