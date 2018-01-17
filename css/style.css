@@ -18,3 +18,8 @@ body {
 }
 
 /* Write all remaining styles here */
+
+header {
+	font-family: Baskerville, serif;
+	font-size: 24px;
+}
