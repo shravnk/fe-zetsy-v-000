@@ -28,6 +28,10 @@ h1 {
 	padding-bottom: 10px;
 }
 
+p {
+	color: #FFFFFF; 
+}
+
 .title {
 	color: rgb(152,173,166);
 }
