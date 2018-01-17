@@ -57,6 +57,10 @@ p {
 	text-decoration: none;
 }
 
+#information a{
+	text-decoration: underline;
+}
+
 #press img {
 	border: 5px #ccc solid;
 	padding: 1px;
